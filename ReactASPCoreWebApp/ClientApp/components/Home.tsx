@@ -25,6 +25,8 @@ export class Home extends React.Component<RouteComponentProps<{}>, {}> {
                 You can generate an ASP.NET Core application with React and Redux using <code>dotnet new reactredux</code> instead of using this template.
             </p>
             <p>Testing Testing Auto Deploy </p>
+            <p>Testing Testing Auto Deploy </p>
+            <p>Testing Testing Auto Deploy 3 Lines</p>
         </div>;
     }
 }
